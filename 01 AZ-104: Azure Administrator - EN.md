@@ -13,3 +13,7 @@
 </br>
 
 ![Screenshot_20-10-2025_0347_learn mslevelup com](https://github.com/user-attachments/assets/41eb0210-9c93-48a6-a60c-d4c9c22237b7)
+
+</br>
+
+- [another public Test pdf](https://github.com/akashdip2001/Azure/blob/main/docs/Azure%20Administrator%20Practice%20Test.pdf)
